@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Coffee_Machine.Problems-Comparing_strings_ignoring_whitespaces.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Coffee_Machine.Problems-Comparing_strings_ignoring_whitespaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Coffee_Machine.Problems-Comparing_strings_ignoring_whitespaces.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Coffee_Machine.Problems-Comparing_strings_ignoring_whitespaces.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Coffee_Machine.Problems-Comparing_strings_ignoring_whitespaces.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Comparing strings ignoring whitespaces/Coffee_Machine.Problems-Comparing_strings_ignoring_whitespaces.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello!/Coffee_Machine.Problems-Hello!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello!/Coffee_Machine.Problems-Hello!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello!/Coffee_Machine.Problems-Hello!.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello!/Coffee_Machine.Problems-Hello!.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello!/Coffee_Machine.Problems-Hello!.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello!/Coffee_Machine.Problems-Hello!.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>

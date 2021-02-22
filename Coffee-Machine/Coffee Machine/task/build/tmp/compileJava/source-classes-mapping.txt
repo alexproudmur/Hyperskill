@@ -1,0 +1,7 @@
+machine/CoffeeMachine1.java
+ machine.CoffeeMachine1
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+machine/Test.java
+ machine.Test
+ machine.Test$Secret
